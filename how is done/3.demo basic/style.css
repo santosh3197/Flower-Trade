@@ -1,0 +1,32 @@
+/*=================================================
+                    DEFAULT VALUES:
+-------------------------------           
+Font Family:Roboto Condensed
+Source "https://fonts.google.com"
+       "https://fontpair.co"
+
+find color name from hex "http://www.color-blindness.com/color-name-hue"
+find color schemes "https://coolors.co"  "https://flatuicolors.com"
+
+hex to rgb converter "www.webpagefx.com/web-design/hex-to-rgb/"
+
+Selective yellow     : #f4b301 (buttons,icons,lines,links)
+Steel grey           : #41464b (headings)
+Blue Bayoux          : #64707b (paragraphs)
+White                : #fff    (text with black backgrounds)
+Black                : #000
+--------------------------------
+
+==================================================*/
+body {
+    font-family: "Roboto Condensed",sans-serif;
+}
+/*CSS-Just For Grid Examples*/
+/*Class idenfied by .classname===to create a class in css*/
+
+/* FOR DEMO PURPOSE ROWS AND COLUMNS
+.col-1 { background-color: red; }
+.col-2 { background-color: green; }
+.col-3 { background-color: blue; }
+.col-4 { background-color: yellow; }
+*/
